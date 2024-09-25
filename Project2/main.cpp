@@ -1,10 +1,7 @@
 #include <iostream>
-#include <Windows.h>
 
 int main()
 {
-	SetConsoleCP(1251);
-	SetConsoleOutputCP(1251);
 
     int number;
     int total_sum = 0;
